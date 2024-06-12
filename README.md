@@ -1,5 +1,5 @@
 
-                                                          E-Parking Challan Application
+                                                  E-Parking Challan Application
                                                                               
 
 The E-Parking Challan application is a comprehensive tool designed to help users manage their parking violations, fines, and related information efficiently. It provides a user-friendly interface and a range of features to streamline the process of handling parking challans. Below is a detailed overview of the app:
